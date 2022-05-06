@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+}   
+
+body {
+    background-color: blanchedalmond;
+}
+
+@import "header";
+@import "inicio";
+@import "footer";
+@import "favoritos";
+@import "contacto";
+@import "oficinas";
+@import "hoteles";
+
+
+
+
+

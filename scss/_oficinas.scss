@@ -1,0 +1,33 @@
+/*estilos a la página oficinas*/
+
+.location {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+iframe {
+    margin: auto;
+    padding: 1rem;
+}
+
+.of1{
+    border: 5px white solid;
+    border-radius: 20px;
+    background-color: rgb(101, 33, 179);
+    padding: 2rem;
+    transition-duration: 2s;
+}
+
+.of1:hover{
+    transform: scale(2);
+}
+
+.of2 {
+    border: 5px white solid;
+    border-radius: 20px;
+    background-color: rgb(101, 33, 179);
+    color: bisque;
+    padding: 2rem;
+    margin: 2rem;
+}

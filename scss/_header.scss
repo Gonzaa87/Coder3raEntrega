@@ -1,0 +1,35 @@
+/*arrancan estilos de header*/ 
+.icon {
+    max-width: 100px;
+}
+
+header {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    align-content:space-around ;
+    background-color: lightslategray;
+    padding: 1rem;
+    h1 {
+        margin: 0 ;
+        background-color: blueviolet;
+        padding: 1.5rem;
+    }
+}
+
+
+
+.ulnav {
+    display: flex;
+    flex-flow: row wrap;
+    list-style: none;
+   ;
+    
+}
+
+.linav {
+    padding: 0 1rem 0 1rem;
+    font-size: 1.5rem;
+}
+
+/*termina estilos de header*/
